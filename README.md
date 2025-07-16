@@ -33,7 +33,8 @@ Sitio web personal responsive donde muestro mis proyectos, habilidades y contact
 ## 📫 ¿Hablamos?
 
 - 📧 Email: Diegoag3107@gmail.com  
-- 🌐 LinkedIn: https://linkedin.com/in/diego-ariza-gómez-7178a5293/
+- 🌐 LinkedIn: [linkedin.com/in/diego-ariza-gómez-7178a5293/](https://linkedin.com/in/tuusuario)  
+- 🌍 Portafolio: https://github.com/DiegoAG31/portfolio(https://diegoariza.dev)
 
 ---
 
